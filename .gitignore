@@ -1,4 +1,7 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
+*.swp
+*.swo
+cs3281/settings.py
+
